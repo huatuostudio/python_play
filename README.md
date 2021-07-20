@@ -1,2 +1,2 @@
-# pythonPlay
+# python_play
  Python Playground
